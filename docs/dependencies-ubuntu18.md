@@ -1,6 +1,6 @@
 # Dependencies for Ubuntu 18.04 LTS
 
-This setup is only tested on Ubuntu 18.04 LTS. Do not run Pupil on a VM unless you know what you are doing. For setting up your dependencies on Ubuntu 17.10 or lower, take a loot at [the corresponding setup guide](./dependencies-ubuntu17.md).
+This setup is only tested on Ubuntu 18.04 LTS. Do not run Pupil on a VM unless you know what you are doing. For setting up your dependencies on Ubuntu 17.10 or lower, take a look at [the corresponding setup guide](./dependencies-ubuntu17.md).
 
 Most of this works via **apt**! Just copy paste into the terminal and listen to your machine purr.
 
